@@ -41,7 +41,18 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mohit-mehra&show_icons=true&theme=radical">
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit-mehra&theme=radical" alt="mohit-mehra" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohit-mehra&theme=radical&utcOffset=8">
+    </td>
+  </tr>
 </table>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit-mehra&theme=radical"/>
+</p>
 
 ###
 ![gitartwork](gitartwork.svg)
