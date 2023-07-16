@@ -96,3 +96,7 @@
 ###
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kra5k4wjyvrrznhc3ygqy34gk4&count=2"></img>
 ###
+
+###
+![gitartwork](gitartwork.svg)
+###
