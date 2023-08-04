@@ -57,5 +57,3 @@
 ###
 ![gitartwork](gitartwork.svg)
 ###
-
-![snake gif](https://github.com/mohit-mehra/mohit-mehra/blob/output/github-contribution-grid-snake.svg)
