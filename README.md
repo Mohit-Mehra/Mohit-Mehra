@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Mehra</h1>
 <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A passionate Programmer</h3>
 <img align="right" alt="Coding" widt="400" src="https://64.media.tumblr.com/a7c6165cdf20a3eb0251bcd33463860a/2d53549d34336171-59/s540x810/792cf7e5926c27307a9a60d6f0e15cea4a612d34.gif">
 
